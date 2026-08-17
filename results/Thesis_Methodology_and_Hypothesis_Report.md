@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 SECTION 1: TERMINOLOGY BOUNDARIES & CONCEPTUAL SCOPE (Item 3)
+## 📌 SECTION 1: TERMINOLOGY BOUNDARIES & CONCEPTUAL SCOPE
 
 To ensure scientific rigor and prevent conceptual ambiguity, this work strictly delineates three distinct terminology boundaries:
 
@@ -30,7 +30,7 @@ CONCEPT TERMINOLOGY        DEFINITION & SCIENTIFIC SCOPE                     SCO
 
 ---
 
-## 🔬 SECTION 2: PROBLEM STATEMENT, ILLUSTATIVE EXAMPLE & PRIOR LITERATURE (Item 4)
+## 🔬 SECTION 2: PROBLEM STATEMENT, ILLUSTATIVE EXAMPLE & PRIOR LITERATURE
 
 ### 2.1 The Problem Statement
 Traditional e-commerce platforms evaluate products using historical average star ratings ($R_{\text{base}}$). However, static star averages suffer from two major flaws:
@@ -52,7 +52,7 @@ Consider **Product_D** from our Amazon Electronics experimental dataset:
 
 ---
 
-## 🛠️ SECTION 3: THE METHOD - REUSABLE SCIENTIFIC RECIPE (Item 5 - Method)
+## 🛠️ SECTION 3: THE METHOD - REUSABLE SCIENTIFIC RECIPE
 
 The **T-AASA Method** is formulated as a domain-independent, reusable scientific recipe. Any researcher can re-apply this recipe to different domains (e.g., hotel reviews, mobile app feedback):
 
@@ -76,7 +76,7 @@ $$\text{Score}_i = \alpha \cdot R_{\text{base}, i} + \beta \sum_{k} \left( W_{u,
 
 ---
 
-## 📊 SECTION 4: APPLICATION OF THE METHOD & DATA CHARACTERISTICS (Item 5 - Application)
+## 📊 SECTION 4: APPLICATION OF THE METHOD & DATA CHARACTERISTICS
 
 ### 4.1 Dataset Properties
 * **Dataset:** Amazon Electronics Product Reviews Corpus.
@@ -98,7 +98,7 @@ price              22.08%               16.69%                 0.7558           
 
 ---
 
-## 📈 SECTION 5: STRUCTURAL EQUATION MODEL & STATISTICAL HYPOTHESIS TESTING (Item 6)
+## 📈 SECTION 5: STRUCTURAL EQUATION MODEL & STATISTICAL HYPOTHESIS TESTING
 
 ### 5.1 Structural Variables Definition
 * **Independent Variables (IVs):**
