@@ -1,0 +1,4 @@
+# Ignore results folder in Git repository
+results/
+__pycache__/
+*.pyc

@@ -1,6 +1,0 @@
-product_id,avg_rating_stars,r_base,baseline_score,taasa_sdmae_score,battery_sdmae_sentiment,sound_sdmae_sentiment
-Product_A,4.21,0.841,0.8412,0.5984,0.128,0.121
-Product_B,4.24,0.847,0.8474,0.6042,0.134,0.168
-Product_C,4.25,0.85,0.8502,0.5551,0.108,0.099
-Product_D,4.42,0.885,0.8848,0.5726,0.1,0.103
-Product_E,4.25,0.85,0.85,0.5713,0.132,0.091

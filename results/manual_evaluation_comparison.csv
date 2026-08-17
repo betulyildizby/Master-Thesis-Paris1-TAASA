@@ -1,6 +1,0 @@
-product_id,sdmae_rank,taasa_rank,avg_stars,battery_sentiment,sound_sentiment,sdmae_recommendation,taasa_recommendation,manual_ground_truth_finding,taasa_superiority_percentage
-Product_B,4,1,4.24,0.134,0.168,NOT RECOMMENDED (Rank #4),TOP RECOMMENDATION (Rank #1),BEST MATCH: Recent reviews highly praise battery longevity & sound clarity.,+46.95% aspect satisfaction gain over SDMAE Top-1
-Product_A,5,2,4.21,0.128,0.121,LOWEST RANK (Rank #5),HIGH RECOMMENDATION (Rank #2),HIGH QUALITY: Strong battery performance despite slightly lower overall star count.,+33.35% aspect satisfaction gain over SDMAE Top-2
-Product_D,1,3,4.42,0.1,0.103,TOP RECOMMENDATION (Rank #1),ADJUSTED (Rank #3),"MISLEADING STAR RATING: High total stars from old reviews, but recent battery performance is lower.",Correctly demoted to prevent user disappointment
-Product_E,3,4,4.25,0.132,0.091,MID RANK (Rank #3),MID-LOW RANK (Rank #4),MODERATE: Good battery but lower audio quality sentiment.,Re-ranked accurately based on weighted aspect sum
-Product_C,2,5,4.25,0.108,0.099,HIGH RANK (Rank #2),LOWEST RANK (Rank #5),WEAK ASPECT PERFORMANCE: Lowest combined battery and sound sentiment among peers.,Correctly demoted from Rank #2 to #5 (-3 places)
