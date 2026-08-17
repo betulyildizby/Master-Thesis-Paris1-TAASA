@@ -1,0 +1,14 @@
+======================================================================
+      T-AASA vs. SDMAE BASELINE COMPARATIVE EXPERIMENT REPORT        
+======================================================================
+
+Dataset: huggignfacedataset\amazon_reviews_Electronics.csv
+Sample Count: 1000
+
+----------------------------------------------------------------------
+Round 1: SDMAE (Baseline) Accuracy : 80.30%
+Round 1: SDMAE (Baseline) Macro-F1 : 29.69%
+----------------------------------------------------------------------
+Round 2: T-AASA (Proposed) Accuracy: 80.30%
+Round 2: T-AASA (Proposed) Macro-F1: 29.69%
+----------------------------------------------------------------------

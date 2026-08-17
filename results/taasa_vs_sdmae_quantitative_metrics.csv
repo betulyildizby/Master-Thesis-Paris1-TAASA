@@ -1,0 +1,5 @@
+metric_category,sdmae_baseline_value,taasa_proposed_value,absolute_difference,improvement_percentage,description
+Top-1 Recommendation User Aspect Satisfaction Score,0.1621,0.2382,0.0761,+46.95%,T-AASA's Top-1 pick (Product_B) yields 46.95% higher user satisfaction for Battery & Sound preferences compared to SDMAE's pick (Product_D).
+Top-2 Recommendation Avg Satisfaction Score,0.1643,0.219,0.0548,+33.32%,Top-2 recommendations recommended by T-AASA align 33.32% better with active user preferences.
+Manual Review Inspection Alignment Rate,20.0%,90.0%,+70.0%,+350.0%,Percentage of recommended items matching manual sentiment review verification.
+Recommendation List Rank Divergence Rate,0.0% (Static),100.0%,+100.0%,N/A (Dynamic Reordering),5 out of 5 products (100.0%) were reordered to fix static star rating biases.

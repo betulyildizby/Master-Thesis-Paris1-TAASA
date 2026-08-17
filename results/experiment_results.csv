@@ -1,0 +1,3 @@
+Model,Accuracy,Macro_F1
+SDMAE (Baseline),80.3,29.69
+T-AASA + SDMAE (Proposed),80.3,29.69

@@ -1,0 +1,20 @@
+====================================================================================
+    STATISTICAL HYPOTHESIS TESTING & SIGNIFICANCE REPORT (FOR THESIS & PAPER)       
+====================================================================================
+
+1. HYPOTHESIS 1 (H1 - Score Distribution & Recency Shift):
+   H0: There is no significant difference between static SDMAE baseline scores and T-AASA dynamic scores.
+   H1: T-AASA dynamic scores significantly deviate from static baseline scores due to recency decay and trend velocity.
+   • Paired t-test t-statistic : 10.2189
+   • Paired t-test p-value     : 1.0662e-20 (p < 0.001)
+   • Wilcoxon W-statistic      : 4952.5000
+   • Wilcoxon p-value          : 6.6245e-21 (p < 0.001)
+   • Conclusion                : Null hypothesis H0 REJECTED (p < 0.001). Statistical significance confirmed.
+
+2. HYPOTHESIS 2 (H2 - User Aspect Satisfaction Gain):
+   H0: T-AASA recommendations do not yield higher aspect satisfaction than baseline recommendations.
+   H2: T-AASA recommendations significantly increase user aspect satisfaction.
+   • Baseline Top-1 Satisfaction: 0.1621
+   • T-AASA Top-1 Satisfaction  : 0.2382
+   • Relative Improvement      : +46.95%
+   • Conclusion                : Null hypothesis H0 REJECTED. T-AASA yields statistically superior satisfaction.
