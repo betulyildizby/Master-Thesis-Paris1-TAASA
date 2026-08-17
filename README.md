@@ -82,8 +82,25 @@ python run_statistical_tests.py
 
 ---
 
+## 📚 Approved Literature Citations
+
+1. **Shetty, A. M., & Manjaiah, D. H. (2024).** Analyzing sentiments in e-commerce: Techniques, applications and challenges.
+2. **Liu, Y., Lu, J., Yang, J., & Mao, F. (2020).** Sentiment analysis for e-commerce product reviews by deep learning model of Bert-BiGRU-Softmax. *Mathematical Biosciences and Engineering*, 17(6), 7819-7837.
+3. **D'Andrea, A., Fusacchia, G., & D'Ulizia, A. (2025).** Policy review: countering disinformation in the digital Age-Policies and initiatives to safeguard democracy in Europe. *Information Polity*, 30(1), 82-91.
+4. **42Signals (2024).** Economic Impact of Customer Feedback Loops. *(Industry Feedback Report)*.
+5. **Amazon AWS (2025).** Sentiment Analysis for Business Intelligence. *(Technical Intelligence Source)*.
+6. **arXiv (2025).** Empirical Study on Sentiment Analysis Impact on Customer Satisfaction. *(Academic Pre-print)*.
+7. **D'Andrea, A., et al. (2015).** A framework for trend detection from social media data. *Journal of Theoretical and Applied Information Technology*, 72(2), 205-214.
+8. **Liu, Y., et al. (2020).** Sentiment analysis for e-commerce product reviews by deep learning model (Bert-BiGRU-Softmax). *International Journal of Modern Physics B*, 34(30), 2040103.
+9. **ResearchGate (2024).** Definition of Trend Detection in Business Analytics. *(Academic Source)*.
+10. **Shetty, P., et al. (2024).** Sentimental Analysis for E-Commerce Reviews. *Proceedings of the 4th International Conference on Computational Intelligence and Information Technology*.
+11. **UNCTAD (2024).** E-Commerce Definition and Scope. *(Institutional Scope Source)*.
+
+---
+
 ## 📄 License & FAIR Science Compliance
 
 This repository is shared in accordance with **FAIR (Findable, Accessible, Interoperable, Reusable)** open science guidelines for master thesis evaluation at Université Paris 1 Panthéon - Sorbonne.
 
 For inquiries, please contact: **Betül YILDIZ** (Université Paris 1 Panthéon - Sorbonne).
+
