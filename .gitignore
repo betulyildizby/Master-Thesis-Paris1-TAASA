@@ -2,3 +2,7 @@
 results/
 __pycache__/
 *.pyc
+
+# Ignore local thesis writing documents and exports
+thesis_writing/
+
