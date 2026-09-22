@@ -6,7 +6,7 @@
 
 **Master Thesis Research Project**  
 **Student:** Betül YILDIZ  
-**Advisor:** Prof. Camille Salinesi  
+**Supervisor:** Prof. Camille Salinesi  
 **Institution:** Université Paris 1 Panthéon - Sorbonne (UFR 27 - Observatoire de l'IA)  
 
 ---
